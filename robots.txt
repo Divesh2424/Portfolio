@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-project.vercel.app/sitemap.xml
+Sitemap: https://portfolio-jade-eta-qahay9pycj.vercel.app/sitemap.xml
